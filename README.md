@@ -1,2 +1,2 @@
-# Poker-
+# Poker++
 Poker offline game
