@@ -1,2 +1,2 @@
 # Poker++
-Poker offline game
+Console Game.
